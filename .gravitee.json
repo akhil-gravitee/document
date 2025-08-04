@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "documentation": {
+    "pages": [
+      {
+        "src": "/docs/readme.md",
+        "dest": "/",
+        "name": "Homepage",
+        "homepage": true
+      },
+      {
+        "src": "/test-import-swagger.json",
+        "dest": "/technical",
+        "name": "Swagger"
+      }
+    ]
+  }
+}
