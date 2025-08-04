@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Getting Started Guide",
+    "type": "markdown",
+    "source": {
+      "type": "git",
+      "path": "/docs/getting-started.md"
+    }
+  },
+  {
+    "name": "API Reference",
+    "type": "markdown",
+    "source": {
+      "type": "git",
+      "path": "/docs/api-reference.md"
+    }
+  }
+]
